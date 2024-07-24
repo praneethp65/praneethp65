@@ -5,7 +5,7 @@ I am a third-year computer science student at Coventry University, passionate ab
 
 
 # 🚀 What I'm Up To
-• 🤖Exploring machine learning models in Fantasy Premier League
+• 🤖Exploring machine learning models for Fantasy Premier League
 
 
 # 💻 Tech Stack:
