@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # About Me:
-I am a third-year computer science student at Coventry University, passionate about exploring the realms of coding, machine learning, and building applications.
+I am a final year computer science student at Coventry University, passionate about exploring the realms of coding, machine learning, and building applications.
 
 
 # 🚀 What I'm Up To
