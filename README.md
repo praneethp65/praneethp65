@@ -19,5 +19,5 @@ DATABASES / ORM: ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?sty
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneeth-p-783100265/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/praneeth-p-783100265/](https://www.linkedin.com/in/praneeth-prasanna-783100265/)) 
 
